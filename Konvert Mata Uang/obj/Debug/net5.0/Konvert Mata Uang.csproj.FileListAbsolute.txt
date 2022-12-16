@@ -1,0 +1,16 @@
+C:\Users\HP\Desktop\Konvert Mata Uang\bin\Debug\net5.0\Konvert Mata Uang.exe
+C:\Users\HP\Desktop\Konvert Mata Uang\bin\Debug\net5.0\Konvert Mata Uang.deps.json
+C:\Users\HP\Desktop\Konvert Mata Uang\bin\Debug\net5.0\Konvert Mata Uang.runtimeconfig.json
+C:\Users\HP\Desktop\Konvert Mata Uang\bin\Debug\net5.0\Konvert Mata Uang.runtimeconfig.dev.json
+C:\Users\HP\Desktop\Konvert Mata Uang\bin\Debug\net5.0\Konvert Mata Uang.dll
+C:\Users\HP\Desktop\Konvert Mata Uang\bin\Debug\net5.0\ref\Konvert Mata Uang.dll
+C:\Users\HP\Desktop\Konvert Mata Uang\bin\Debug\net5.0\Konvert Mata Uang.pdb
+C:\Users\HP\Desktop\Konvert Mata Uang\obj\Debug\net5.0\Konvert Mata Uang.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Konvert Mata Uang\obj\Debug\net5.0\Konvert Mata Uang.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Konvert Mata Uang\obj\Debug\net5.0\Konvert Mata Uang.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Konvert Mata Uang\obj\Debug\net5.0\Konvert Mata Uang.AssemblyInfo.cs
+C:\Users\HP\Desktop\Konvert Mata Uang\obj\Debug\net5.0\Konvert Mata Uang.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Konvert Mata Uang\obj\Debug\net5.0\Konvert Mata Uang.dll
+C:\Users\HP\Desktop\Konvert Mata Uang\obj\Debug\net5.0\ref\Konvert Mata Uang.dll
+C:\Users\HP\Desktop\Konvert Mata Uang\obj\Debug\net5.0\Konvert Mata Uang.pdb
+C:\Users\HP\Desktop\Konvert Mata Uang\obj\Debug\net5.0\Konvert Mata Uang.genruntimeconfig.cache

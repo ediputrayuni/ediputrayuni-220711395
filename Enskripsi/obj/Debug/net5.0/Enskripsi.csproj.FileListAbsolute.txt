@@ -1,0 +1,16 @@
+C:\Users\HP\Desktop\Enskripsi\bin\Debug\net5.0\Enskripsi.exe
+C:\Users\HP\Desktop\Enskripsi\bin\Debug\net5.0\Enskripsi.deps.json
+C:\Users\HP\Desktop\Enskripsi\bin\Debug\net5.0\Enskripsi.runtimeconfig.json
+C:\Users\HP\Desktop\Enskripsi\bin\Debug\net5.0\Enskripsi.runtimeconfig.dev.json
+C:\Users\HP\Desktop\Enskripsi\bin\Debug\net5.0\Enskripsi.dll
+C:\Users\HP\Desktop\Enskripsi\bin\Debug\net5.0\ref\Enskripsi.dll
+C:\Users\HP\Desktop\Enskripsi\bin\Debug\net5.0\Enskripsi.pdb
+C:\Users\HP\Desktop\Enskripsi\obj\Debug\net5.0\Enskripsi.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Enskripsi\obj\Debug\net5.0\Enskripsi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Enskripsi\obj\Debug\net5.0\Enskripsi.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Enskripsi\obj\Debug\net5.0\Enskripsi.AssemblyInfo.cs
+C:\Users\HP\Desktop\Enskripsi\obj\Debug\net5.0\Enskripsi.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Enskripsi\obj\Debug\net5.0\Enskripsi.dll
+C:\Users\HP\Desktop\Enskripsi\obj\Debug\net5.0\ref\Enskripsi.dll
+C:\Users\HP\Desktop\Enskripsi\obj\Debug\net5.0\Enskripsi.pdb
+C:\Users\HP\Desktop\Enskripsi\obj\Debug\net5.0\Enskripsi.genruntimeconfig.cache
